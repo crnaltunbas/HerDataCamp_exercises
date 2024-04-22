@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84d21e10-f932-4f65-bbf3-71550d0a3206" name="Changes" comment="Dosya oluşturuldu.">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="84d21e10-f932-4f65-bbf3-71550d0a3206" name="Changes" comment="İkinci hafta çözüme başlandı ancak devam edilecek.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercices_first_week.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises_first_week.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises_second_week.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises_second_week.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,12 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713694967932</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="İkinci hafta çözüme başlandı ancak devam edilecek.">
+      <option name="closed" value="true" />
+      <created>1713695645689</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713695645689</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dosya oluşturuldu ve ilk hafta örnekleri çözüldü." />
     <MESSAGE value="Dosya oluşturuldu." />
-    <option name="LAST_COMMIT_MESSAGE" value="Dosya oluşturuldu." />
+    <MESSAGE value="İkinci hafta çözüme başlandı ancak devam edilecek." />
+    <option name="LAST_COMMIT_MESSAGE" value="İkinci hafta çözüme başlandı ancak devam edilecek." />
   </component>
 </project>
